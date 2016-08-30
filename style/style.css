@@ -1,0 +1,102 @@
+body {
+        font-family: Georgia, Times, serif;
+        line-height: 1.4em;
+        margin: 0px;
+        background-color: #F4E285;}
+
+.wrapper {
+        width: 940px;
+        margin: 10px auto 10px auto;}
+
+
+.logo  {
+        float:left;}
+
+nav    {
+        margin: 10px;
+        padding-top: 25px;}
+
+nav a  {
+        padding: 10px;
+        margin: 30px;
+        border-bottom: 2px solid #A1A1A1;
+        border-radius: 10px;
+        font-weight: bold;
+        color: #832C00;}
+
+nav a:hover  {
+        text-decoration: none;}
+
+nav a:active  {
+        border-radius: 0px;}
+
+h1  {
+	clear: both;
+	line-height: 1.1em;}
+
+article  {
+        clear: both;
+        width: 85%;}
+
+article figure  {
+        float: left;}
+
+article h1  {
+	text-align: left;
+        text-decoration: underline;
+        font-weight: bold;
+        color: #832C00;}
+
+article h3  {
+	padding-top: 50px;}
+
+.welcome  {
+        font-size: 125%;}
+
+.tz  {
+	float: right;}
+
+.mera  {
+	font-size: 300%;}
+
+.map_about  {
+	float: right;}
+
+.column1of3  {
+	float: left;
+	width: 300px;
+	margin: 10px;}
+
+.column2of3  {
+	float: left;
+	width: 300px;
+	margin: 10px;}
+
+.vacancies ul  {
+	height: 300px;}
+
+.vacancies p  {
+	height: 100px;}
+
+.column3of3  {
+	width: 250px;
+	margin: 10px;
+	float: left;}
+
+.big-text  {
+	font-size: 300%;}
+
+table  {
+	width: 100%;}
+
+th, td  {
+	padding: 7px 10px 10px 10px;}
+
+th  {
+	letter-spasing: 0.1em;
+	text-align: left}
+
+footer  {
+        clear: both;
+        font-size: 80%;
+        text-align: left;}
